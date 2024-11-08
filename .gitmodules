@@ -1,0 +1,3 @@
+[submodule "cp-algorithms"]
+	path = cp-algorithms
+	url = https://github.com/dolfun/cp-algorithms.git
